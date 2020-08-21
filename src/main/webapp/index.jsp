@@ -7,6 +7,6 @@ String version=resource.getString("version");%>
 
 <html>
 <body>
-<h2>Hello Ansible</h2>
+<h2>Welcome to Ansible Project </h2>
 </body>
 </html>
